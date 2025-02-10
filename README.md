@@ -54,12 +54,12 @@ Historical Occupancy Rate (%) (Percentage): The historical occupancy rate of the
 
 #### Tech Stack
 __Tool__ - Power BI
-Data Integration 
-Data Transformation 
-Data Analysis and Modeling 
-Real-time Data Visualization 
-Dashboard Design 
-Reporting 
+* Data Integration 
+* Data Transformation 
+* Data Analysis and Modeling 
+* Real-time Data Visualization 
+* Dashboard Design 
+* Reporting 
  
 
 __Project Scope__
